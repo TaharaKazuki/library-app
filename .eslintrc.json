@@ -49,5 +49,15 @@
     "import/resolver": {
       "typescript": {}
     }
-  }
+  },
+  "overrides": [
+    {
+      "files": ["*.js"],
+      "parser": "espree",
+      "parserOptions": {
+        "project": null,
+        "ecmaVersion": 2020
+      }
+    }
+  ]
 }
