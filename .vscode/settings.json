@@ -6,5 +6,5 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
   "prettier.requireConfig": true,
-  "cSpell.words": ["esbenp"]
+  "cSpell.words": ["dtos", "esbenp"]
 }
